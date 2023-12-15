@@ -1,0 +1,3 @@
+[console_scripts]
+install_opencv_cuda = opencv_cuda.install_script:main
+
